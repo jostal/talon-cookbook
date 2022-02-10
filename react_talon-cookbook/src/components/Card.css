@@ -1,0 +1,32 @@
+.cardContainer {
+  background-color: #354f52;
+  border-radius: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 15px;
+  margin-bottom: 10px;
+  width: 15%;
+  position: relative;
+}
+
+.cardContainer p, h3 {
+  margin-left: 10px;
+  width: 80%;
+}
+
+.actionIcons {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+
+.cardContainer button {
+  background-color: transparent;
+}
+
+.rightArrow {
+  position: absolute;
+  right: 20px;
+  text-decoration: none;
+  color: inherit;
+}
